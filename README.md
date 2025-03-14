@@ -1,6 +1,6 @@
 # Stat386ProjCode
 
-So far in this repository I have the code needed to scrape data, and a data frame of NBA Combine Strength and Agility Testing Results and NBA Draft Results for draft classes 2022-2024. There is a total of 245 observations and 13 variables.
+So far in this repository I have the code needed to scrape data, and a data frame of NBA Combine Strength and Agility Testing Results and NBA Draft Results for draft classes 2021-2024. There is a total of 237 observations and 13 variables.
 
 Variables:
 Player                              object
